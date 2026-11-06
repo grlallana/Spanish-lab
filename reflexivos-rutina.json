@@ -1,0 +1,298 @@
+{
+  "id": "reflexivos-rutina",
+  "category": "Verbos",
+  "title": "Los verbos reflexivos y la rutina diaria",
+  "subtitle": "Reflexive verbs and talking about your daily routine",
+  "taughtIn": [
+    { "grade": "MYP3", "unit": "U3 En la escuela" },
+    { "grade": "MYP5", "unit": "U1 Bienvenidos" }
+  ],
+  "levels": {
+    "1": { "name": "Básico", "grade": "MYP3", "desc": "Reflexive pronouns + regular reflexive verbs in the present" },
+    "2": { "name": "Intermedio", "grade": "MYP4", "desc": "Stem-changing reflexive verbs, reflexive or not, routine texts" },
+    "3": { "name": "Avanzado", "grade": "MYP5", "desc": "Pronoun after the infinitive, connectors to impress, writing with AI feedback" }
+  },
+
+  "theory": [
+    {
+      "level": 1,
+      "heading": "¿Qué es un verbo reflexivo?",
+      "body": "A reflexive verb describes an action that the subject does **to itself**: *Yo me lavo* = I wash myself.\nIn the infinitive, reflexive verbs end in **-se**: levantar**se**, duchar**se**, vestir**se**.\nWhen you conjugate them, the **-se** becomes a reflexive pronoun that goes **before** the verb and always agrees with the subject.",
+      "table": {
+        "head": ["Persona", "Pronombre", "levantarse", "ducharse"],
+        "rows": [
+          ["yo", "me", "me levanto", "me ducho"],
+          ["tú", "te", "te levantas", "te duchas"],
+          ["él / ella / usted", "se", "se levanta", "se ducha"],
+          ["nosotros / nosotras", "nos", "nos levantamos", "nos duchamos"],
+          ["vosotros / vosotras", "os", "os levantáis", "os ducháis"],
+          ["ellos / ellas / ustedes", "se", "se levantan", "se duchan"]
+        ]
+      },
+      "tip": "The verb part follows the normal present-tense rules (-ar, -er, -ir). Only the pronoun is new."
+    },
+    {
+      "level": 1,
+      "heading": "Estructurar la rutina",
+      "body": "Use these words to put your routine in order:\n**Por la mañana** (in the morning) · **por la tarde** (in the afternoon) · **por la noche** (in the evening/at night)\n**Primero** (first) · **después** (afterwards) · **luego** (then) · **más tarde** (later) · **al final** (finally)\n**A las siete** (at seven) · **a la una** (at one) · **a las ocho y media** (at half past eight)"
+    },
+    {
+      "level": 2,
+      "heading": "Reflexivos con cambio de raíz",
+      "body": "Some of the most common routine verbs change their stem in every person **except nosotros and vosotros**.",
+      "table": {
+        "head": ["", "despertarse (e → ie)", "vestirse (e → i)", "acostarse (o → ue)", "dormirse (o → ue)"],
+        "rows": [
+          ["yo", "me despierto", "me visto", "me acuesto", "me duermo"],
+          ["tú", "te despiertas", "te vistes", "te acuestas", "te duermes"],
+          ["él / ella", "se despierta", "se viste", "se acuesta", "se duerme"],
+          ["nosotros", "nos despertamos", "nos vestimos", "nos acostamos", "nos dormimos"],
+          ["vosotros", "os despertáis", "os vestís", "os acostáis", "os dormís"],
+          ["ellos / ellas", "se despiertan", "se visten", "se acuestan", "se duermen"]
+        ]
+      },
+      "tip": "ponerse is irregular only in the yo form: me pongo, te pones, se pone…"
+    },
+    {
+      "level": 2,
+      "heading": "¿Reflexivo o no?",
+      "body": "The same verb can be reflexive or not. It depends on **who receives the action**.\n*Me lavo* las manos → I wash (my own) hands.\n*Lavo* el coche → I wash the car.\n*Me despierto* a las siete → I wake up.\n*Despierto* a mi hermano → I wake my brother up.\nWith body parts and clothes, Spanish uses **el / la / los / las**, not *mi / mis*: *Me lavo **los** dientes* (not *mis dientes*).",
+      "tip": "Gustar is NOT reflexive. In *me gusta*, *te gusta*, *le gusta*… the pronoun is an **indirect object pronoun** (me, te, **le**, nos, os, **les**). Notice le/les, not se."
+    },
+    {
+      "level": 3,
+      "heading": "El pronombre detrás del infinitivo",
+      "body": "When a reflexive verb is in the **infinitive** (after a preposition or another verb), the pronoun is **attached to the end** and must still match the subject:\n*antes de duchar**me*** ✅ (not ~~antes de me ducho~~)\n*Suelo levantar**me** temprano.*\n*Tengo que vestir**me** rápido.*\n*Me encanta quedar**me** en la cama.*\nWith **ir a + infinitivo** or **tener que + infinitivo**, both positions are correct: *Voy a acostar**me*** = *Me voy a acostar*."
+    },
+    {
+      "level": 3,
+      "heading": "Conectores y expresiones para impresionar",
+      "body": "**Nada más** + infinitive → as soon as: *Nada más levantarme, me ducho.*\n**Después de** + infinitive → after: *Después de ducharme, me visto.*\n**Antes de** + infinitive → before: *Antes de salir, me cepillo los dientes.*\n**Mientras** + present → while: *Mientras desayuno, escucho música.*\n**Soler** + infinitive → to usually do: *Suelo peinarme delante del espejo.*\n**Tardar** + time + **en** + infinitive → to take (time) to: *Tardo cinco minutos en vestirme.*\n**En cuanto** + present → as soon as: *En cuanto me levanto, me lavo la cara.*\n**Aunque** (although) · **sin embargo** (however) · **ya que** (since) · **como** (as, at the start of a sentence)"
+    }
+  ],
+
+  "vocab": [
+    { "es": "despertarse", "en": "to wake up", "note": "e → ie" },
+    { "es": "levantarse", "en": "to get up" },
+    { "es": "ducharse", "en": "to have a shower" },
+    { "es": "bañarse", "en": "to have a bath" },
+    { "es": "lavarse (la cara / las manos)", "en": "to wash (your face / your hands)" },
+    { "es": "cepillarse / lavarse los dientes", "en": "to brush your teeth" },
+    { "es": "peinarse", "en": "to comb your hair" },
+    { "es": "maquillarse", "en": "to put on make-up" },
+    { "es": "afeitarse", "en": "to shave" },
+    { "es": "vestirse", "en": "to get dressed", "note": "e → i" },
+    { "es": "ponerse (la ropa)", "en": "to put on (clothes)", "note": "yo: me pongo" },
+    { "es": "quitarse", "en": "to take off" },
+    { "es": "prepararse", "en": "to get ready" },
+    { "es": "sentarse", "en": "to sit down", "note": "e → ie" },
+    { "es": "relajarse", "en": "to relax" },
+    { "es": "acostarse", "en": "to go to bed", "note": "o → ue" },
+    { "es": "dormirse", "en": "to fall asleep", "note": "o → ue" },
+    { "es": "desayunar", "en": "to have breakfast", "note": "not reflexive" },
+    { "es": "salir de casa", "en": "to leave home", "note": "not reflexive; yo: salgo" }
+  ],
+
+  "exercises": [
+    {
+      "id": "refl-1-match", "level": 1, "type": "match", "title": "Empareja",
+      "instructions": "Match each Spanish verb with its English meaning.",
+      "xpPerItem": 6,
+      "items": [
+        { "pairs": [["levantarse", "to get up"], ["ducharse", "to have a shower"], ["peinarse", "to comb your hair"], ["vestirse", "to get dressed"], ["acostarse", "to go to bed"], ["despertarse", "to wake up"]] },
+        { "pairs": [["afeitarse", "to shave"], ["maquillarse", "to put on make-up"], ["ponerse", "to put on"], ["quitarse", "to take off"], ["dormirse", "to fall asleep"], ["relajarse", "to relax"]] }
+      ]
+    },
+    {
+      "id": "refl-1-pron", "level": 1, "type": "choice", "title": "El pronombre correcto",
+      "instructions": "Choose the reflexive pronoun that matches the subject.",
+      "xpPerItem": 1,
+      "items": [
+        { "q": "Yo ___ ducho por la mañana.", "options": ["me", "te", "se"], "answer": 0, "why": "yo → me" },
+        { "q": "Tú ___ levantas muy temprano.", "options": ["se", "te", "me"], "answer": 1, "why": "tú → te" },
+        { "q": "Mi madre ___ peina delante del espejo.", "options": ["se", "me", "nos"], "answer": 0, "why": "mi madre = ella → se" },
+        { "q": "Nosotros ___ lavamos las manos antes de comer.", "options": ["os", "se", "nos"], "answer": 2, "why": "nosotros → nos" },
+        { "q": "Vosotros ___ ducháis después del gimnasio.", "options": ["os", "nos", "se"], "answer": 0, "why": "vosotros → os" },
+        { "q": "Mis hermanos ___ levantan a las ocho.", "options": ["nos", "se", "te"], "answer": 1, "why": "mis hermanos = ellos → se" },
+        { "q": "Ana y yo ___ preparamos para la fiesta.", "options": ["se", "os", "nos"], "answer": 2, "why": "Ana y yo = nosotros → nos" },
+        { "q": "¿A qué hora ___ duchas, Pablo?", "options": ["te", "se", "me"], "answer": 0, "why": "talking to Pablo = tú → te" }
+      ]
+    },
+    {
+      "id": "refl-1-conj", "level": 1, "type": "conjugate", "title": "Conjuga",
+      "instructions": "Write the pronoun and the verb in the present tense. Example: yo + levantarse → me levanto",
+      "xpPerItem": 2,
+      "items": [
+        { "subject": "yo", "verb": "levantarse", "answer": "me levanto" },
+        { "subject": "tú", "verb": "ducharse", "answer": "te duchas" },
+        { "subject": "ella", "verb": "peinarse", "answer": "se peina" },
+        { "subject": "nosotros", "verb": "lavarse", "answer": "nos lavamos" },
+        { "subject": "vosotros", "verb": "levantarse", "answer": "os levantáis" },
+        { "subject": "ellos", "verb": "afeitarse", "answer": "se afeitan" },
+        { "subject": "yo", "verb": "cepillarse", "answer": "me cepillo" },
+        { "subject": "usted", "verb": "maquillarse", "answer": "se maquilla" },
+        { "subject": "vosotras", "verb": "ducharse", "answer": "os ducháis" },
+        { "subject": "tú", "verb": "relajarse", "answer": "te relajas" }
+      ]
+    },
+    {
+      "id": "refl-1-order", "level": 1, "type": "order", "title": "Ordena la frase",
+      "instructions": "Put the words in the right order to make a sentence.",
+      "xpPerItem": 2,
+      "items": [
+        { "words": ["me", "levanto", "a", "las", "siete"], "answer": "Me levanto a las siete" },
+        { "words": ["primero", "me", "ducho"], "answer": "Primero me ducho", "accept": ["Me ducho primero"] },
+        { "words": ["luego", "me", "visto"], "answer": "Luego me visto", "accept": ["Me visto luego"] },
+        { "words": ["mi", "hermana", "se", "peina", "rápido"], "answer": "Mi hermana se peina rápido" },
+        { "words": ["nos", "lavamos", "los", "dientes"], "answer": "Nos lavamos los dientes" },
+        { "words": ["por", "la", "noche", "me", "relajo"], "answer": "Por la noche me relajo", "accept": ["Me relajo por la noche"] }
+      ]
+    },
+    {
+      "id": "refl-1-write", "level": 1, "type": "writing", "title": "Mi mañana",
+      "instructions": "Write about your morning before school.",
+      "xp": 25,
+      "prompt": "Describe tu rutina por la mañana antes de ir a la escuela.",
+      "criteria": [
+        "4–6 sentences",
+        "at least 4 different reflexive verbs with the correct pronoun",
+        "at least 2 times (a las siete, a las ocho y media…)",
+        "at least 2 sequence words (primero, después, luego, más tarde)"
+      ],
+      "minWords": 30, "maxWords": 80,
+      "model": "Por la mañana me despierto a las siete. Primero me levanto y me ducho. Después me visto y desayuno. Luego me lavo los dientes y me peino. A las ocho salgo de casa."
+    },
+
+    {
+      "id": "refl-2-conj", "level": 2, "type": "conjugate", "title": "Conjuga: cambio de raíz",
+      "instructions": "These verbs change their stem. Write the pronoun + verb in the present tense.",
+      "xpPerItem": 2,
+      "items": [
+        { "subject": "yo", "verb": "despertarse", "answer": "me despierto" },
+        { "subject": "tú", "verb": "vestirse", "answer": "te vistes" },
+        { "subject": "él", "verb": "acostarse", "answer": "se acuesta" },
+        { "subject": "nosotros", "verb": "despertarse", "answer": "nos despertamos" },
+        { "subject": "vosotros", "verb": "vestirse", "answer": "os vestís" },
+        { "subject": "ellas", "verb": "dormirse", "answer": "se duermen" },
+        { "subject": "yo", "verb": "ponerse", "answer": "me pongo" },
+        { "subject": "nosotras", "verb": "acostarse", "answer": "nos acostamos" },
+        { "subject": "tú", "verb": "sentarse", "answer": "te sientas" },
+        { "subject": "yo", "verb": "dormirse", "answer": "me duermo" }
+      ]
+    },
+    {
+      "id": "refl-2-ornot", "level": 2, "type": "choice", "title": "¿Reflexivo o no?",
+      "instructions": "Choose the correct option. Think: does the person do the action to themselves?",
+      "xpPerItem": 1,
+      "items": [
+        { "q": "Los sábados ___ el coche de mi padre.", "options": ["lavo", "me lavo"], "answer": 0, "why": "You wash the car, not yourself." },
+        { "q": "Antes de comer ___ las manos.", "options": ["lavo", "me lavo"], "answer": 1, "why": "You wash your own hands → reflexive." },
+        { "q": "Mi madre ___ a mi hermano pequeño a las siete.", "options": ["despierta", "se despierta"], "answer": 0, "why": "She wakes someone else up." },
+        { "q": "Yo ___ solo, con el despertador.", "options": ["despierto", "me despierto"], "answer": 1, "why": "You wake yourself up." },
+        { "q": "Ella ___ a su hija para el colegio.", "options": ["viste", "se viste"], "answer": 0, "why": "She dresses her daughter." },
+        { "q": "Todos los días ___ a las siete y media.", "options": ["desayuno", "me desayuno"], "answer": 0, "why": "Desayunar is not reflexive." },
+        { "q": "Me cepillo ___ dientes después de desayunar.", "options": ["mis", "los"], "answer": 1, "why": "With body parts Spanish uses the article: los dientes." },
+        { "q": "A mí ___ gusta ducharme por la noche.", "options": ["me", "se"], "answer": 0, "why": "Gustar uses indirect object pronouns: me, te, le, nos, os, les." }
+      ]
+    },
+    {
+      "id": "refl-2-gap", "level": 2, "type": "gap", "title": "Completa el texto de Lucía",
+      "instructions": "Complete Lucía's routine with the verb in brackets in the present tense (include the pronoun).",
+      "xpPerItem": 2,
+      "items": [
+        { "text": "Entre semana, Lucía ___ a las seis y media.", "hint": "despertarse", "answer": "se despierta" },
+        { "text": "No ___ enseguida porque le encanta quedarse en la cama.", "hint": "levantarse", "answer": "se levanta" },
+        { "text": "Primero ___ con agua caliente.", "hint": "ducharse", "answer": "se ducha" },
+        { "text": "Después ___ con ropa cómoda.", "hint": "vestirse", "answer": "se viste" },
+        { "text": "Luego ___ las zapatillas.", "hint": "ponerse", "answer": "se pone" },
+        { "text": "Antes de salir, ___ los dientes.", "hint": "cepillarse", "answer": "se cepilla", "accept": ["se lava"] },
+        { "text": "Por la noche, ella y su hermana ___ a las diez y media.", "hint": "acostarse", "answer": "se acuestan" },
+        { "text": "Lucía ___ enseguida porque está muy cansada.", "hint": "dormirse", "answer": "se duerme" }
+      ]
+    },
+    {
+      "id": "refl-2-translate", "level": 2, "type": "translate", "title": "Traduce",
+      "instructions": "Translate into Spanish. Remember the pronoun and the stem change.",
+      "xpPerItem": 3,
+      "items": [
+        { "en": "I wake up at seven.", "answer": "Me despierto a las siete.", "accept": ["Yo me despierto a las siete."] },
+        { "en": "We go to bed at eleven.", "answer": "Nos acostamos a las once.", "accept": ["Nosotros nos acostamos a las once.", "Nosotras nos acostamos a las once."] },
+        { "en": "She gets dressed quickly.", "answer": "Se viste rápidamente.", "accept": ["Ella se viste rápidamente.", "Se viste rápido.", "Ella se viste rápido."] },
+        { "en": "Do you shower in the morning?", "answer": "¿Te duchas por la mañana?", "accept": ["¿Tú te duchas por la mañana?"] },
+        { "en": "They fall asleep at midnight.", "answer": "Se duermen a medianoche.", "accept": ["Ellos se duermen a medianoche.", "Ellas se duermen a medianoche.", "Se duermen a las doce.", "Ellos se duermen a las doce.", "Ellas se duermen a las doce."] },
+        { "en": "I put on my coat.", "answer": "Me pongo el abrigo.", "accept": ["Yo me pongo el abrigo."] }
+      ]
+    },
+
+    {
+      "id": "refl-3-inf", "level": 3, "type": "gap", "title": "El pronombre en el infinitivo",
+      "instructions": "Write the reflexive verb in the infinitive with the correct pronoun attached. Example: Antes de ___ (ducharse, yo) → ducharme",
+      "xpPerItem": 3,
+      "items": [
+        { "text": "Antes de ___, me cepillo los dientes.", "hint": "ducharse (yo)", "answer": "ducharme" },
+        { "text": "Suelo ___ delante del espejo.", "hint": "peinarse (yo)", "answer": "peinarme" },
+        { "text": "Tienes que ___ más rápido.", "hint": "vestirse (tú)", "answer": "vestirte" },
+        { "text": "Después de ___, mis padres leen un rato.", "hint": "acostarse (ellos)", "answer": "acostarse" },
+        { "text": "Nos encanta ___ en la cama los domingos.", "hint": "quedarse (nosotros)", "answer": "quedarnos" },
+        { "text": "Nada más ___, mi hermano enciende el móvil.", "hint": "despertarse (él)", "answer": "despertarse" },
+        { "text": "Tardo diez minutos en ___.", "hint": "prepararse (yo)", "answer": "prepararme" },
+        { "text": "¿Vais a ___ ahora?", "hint": "ducharse (vosotros)", "answer": "ducharos" }
+      ]
+    },
+    {
+      "id": "refl-3-transform", "level": 3, "type": "transform", "title": "De básico a avanzado",
+      "instructions": "Join the two short sentences into one, using the structure given.",
+      "xpPerItem": 4,
+      "items": [
+        { "from": "Me levanto. Me ducho.", "instruction": "nada más + infinitive", "answer": "Nada más levantarme, me ducho.", "accept": ["Nada más levantarme me ducho.", "Me ducho nada más levantarme."] },
+        { "from": "Me ducho. Me visto.", "instruction": "después de + infinitive", "answer": "Después de ducharme, me visto.", "accept": ["Después de ducharme me visto.", "Me visto después de ducharme."] },
+        { "from": "Me cepillo los dientes. Salgo de casa.", "instruction": "antes de + infinitive", "answer": "Antes de salir de casa, me cepillo los dientes.", "accept": ["Antes de salir de casa me cepillo los dientes.", "Me cepillo los dientes antes de salir de casa.", "Antes de salir, me cepillo los dientes.", "Me cepillo los dientes antes de salir."] },
+        { "from": "Me visto en cinco minutos.", "instruction": "tardar … en + infinitive", "answer": "Tardo cinco minutos en vestirme." },
+        { "from": "Normalmente me peino.", "instruction": "soler + infinitive", "answer": "Suelo peinarme.", "accept": ["Normalmente suelo peinarme.", "Me suelo peinar."] },
+        { "from": "Desayuno. Escucho música.", "instruction": "mientras", "answer": "Mientras desayuno, escucho música.", "accept": ["Mientras desayuno escucho música.", "Escucho música mientras desayuno."] }
+      ]
+    },
+    {
+      "id": "refl-3-errors", "level": 3, "type": "choice", "title": "Encuentra el error",
+      "instructions": "Each sentence has one mistake typical of English speakers. Choose the correct version.",
+      "xpPerItem": 2,
+      "items": [
+        { "q": "Which is correct?", "options": ["Antes de me ducho, desayuno.", "Antes de ducharme, desayuno."], "answer": 1, "why": "After a preposition use the infinitive with the pronoun attached." },
+        { "q": "Which is correct?", "options": ["Me lavo mi pelo.", "Me lavo el pelo."], "answer": 1, "why": "With body parts, the reflexive pronoun already shows whose it is, so use the article." },
+        { "q": "Which is correct?", "options": ["Yo me visto y yo me peino y yo salgo.", "Me visto, me peino y salgo."], "answer": 1, "why": "Spanish drops the subject pronoun: the verb ending already tells you who." },
+        { "q": "Which is correct?", "options": ["Mis padres se acostan tarde.", "Mis padres se acuestan tarde."], "answer": 1, "why": "Acostarse changes o → ue (except nosotros/vosotros)." },
+        { "q": "Which is correct?", "options": ["Suelo levantarme temprano.", "Suelo me levanto temprano."], "answer": 0, "why": "Soler + infinitive, with the pronoun attached." },
+        { "q": "Which is correct?", "options": ["Le gusta ducharse por la noche.", "Se gusta ducharse por la noche."], "answer": 0, "why": "Gustar uses indirect object pronouns (le), not the reflexive se." }
+      ]
+    },
+    {
+      "id": "refl-3-reading", "level": 3, "type": "reading", "title": "Lectura: el fin de semana",
+      "instructions": "Read the text and answer the questions in Spanish with full sentences.",
+      "xp": 20,
+      "text": "Los fines de semana mi rutina es muy diferente. Aunque mi despertador no suena, siempre me despierto temprano, sobre las ocho. Sin embargo, me quedo en la cama un rato más y no me levanto hasta las nueve y media. En cuanto me levanto, me lavo la cara con agua fría para sentirme más despierta. Como no tengo prisa, preparo un desayuno grande con huevos y zumo de naranja. Más tarde, me baño tranquilamente y me pongo ropa deportiva, porque los sábados suelo ir al gimnasio con mis amigos. Si hace buen tiempo, prefiero salir a correr.",
+      "questions": [
+        "¿A qué hora se despierta los fines de semana? ¿Y a qué hora se levanta?",
+        "¿Qué hace nada más levantarse y por qué?",
+        "¿Por qué prepara un desayuno grande?",
+        "¿Qué suele hacer los sábados?",
+        "¿Qué diferencia hay entre su rutina del fin de semana y la tuya?"
+      ]
+    },
+    {
+      "id": "refl-3-write", "level": 3, "type": "writing", "title": "Mi rutina: entre semana y fin de semana",
+      "instructions": "Write about your routine. This is the same task as the written summative, so use it to practise.",
+      "xp": 40,
+      "prompt": "Describe tu rutina de un día entre semana y compárala con un día del fin de semana.",
+      "criteria": [
+        "80–120 words",
+        "at least 6 different reflexive verbs, including at least 2 with a stem change (despertarse, vestirse, acostarse, dormirse)",
+        "at least 2 reflexive verbs in the infinitive with the pronoun attached (antes de ducharme, suelo levantarme…)",
+        "at least 3 advanced connectors (nada más, después de, mientras, tardar en, soler, aunque, sin embargo, ya que)",
+        "times of day",
+        "a comparison between weekdays and the weekend"
+      ],
+      "minWords": 80, "maxWords": 140,
+      "model": "Entre semana, me despierto a las seis y media, pero no me levanto enseguida porque me encanta quedarme cinco minutos más en la cama. Lo primero que hago es ducharme con agua caliente, ya que me ayuda a despertarme. Después de secarme el pelo, me visto con ropa cómoda y me pongo las zapatillas. Mientras desayuno, suelo escuchar música o leer las noticias en el móvil. Antes de salir de casa, me cepillo los dientes y me peino rápidamente. Normalmente tardo veinte minutos en llegar al colegio en autobús."
+    }
+  ]
+}
